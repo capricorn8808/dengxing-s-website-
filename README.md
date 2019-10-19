@@ -8,7 +8,7 @@
 <img src="./收钱.png"  width="550" weight="1280"/>  
  
 </p>  
-<p><a href="https://www.iesdouyin.com/share/video/6741360058698829070/?region=CN&mid=6730117159588236036&u_code=12i2mdi7l66b&titleType=title&timestamp=1571475110">付款后即可点击观看</a> </p>
+<p><a href="https://github.com/capricorn8808/dengxing-s-website-/blob/master/555.gif">付款后即可点击观看</a> </p>
 
 </body>
 </html>
