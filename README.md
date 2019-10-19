@@ -1,5 +1,13 @@
-##搭建免费的 网站
-随便写点什么呢
-这样吧
-付费看项虹桥的美照哈哈哈哈
-付款账号195055246
+<!DOCTYPE HTLM>
+<html>
+<meta charset="UTF-8">
+<title>项虹桥</title>
+<body>
+<p>
+看了照片就要付钱：</dr>
+<img src=".\eg_cute.gif"  width="55" weight="128"/>
+</p>
+</body>
+</html>
+
+
