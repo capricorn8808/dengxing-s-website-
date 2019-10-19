@@ -3,9 +3,9 @@
   
 <body>
 <p>
-跳舞照片就要付钱：  </br>  
- <img src="./zhu.gif"  width="165" weight="384"/>  </br>
-<img src="./收钱.png"  width="550" weight="1280"/>  </br>
+跳舞照片就要付钱：    
+ <img src="./zhu.gif"  width="165" weight="384"/>  
+<img src="./收钱.png"  width="550" weight="1280"/>  
  
 </p>
 </body>
